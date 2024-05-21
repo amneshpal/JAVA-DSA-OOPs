@@ -1,0 +1,236 @@
+
+
+# addtion
+# area and circumfrence of circle, rectangle.
+# swap two varable  without or with third variable.
+# area of triangle 
+# si or ci 
+# fahrenhight to celsius 
+# commandlineArgument
+# Driving lincence.
+# Data type
+# even odd
+# firstProgram by cmd 
+# frequency
+# GFG
+# wap take input and check whether it is character, digit, speacial Character.
+# check upper case or lower case.
+# check character is vowel or consonent.
+# take input and print num of days in months.
+# print employee sallaryslip.
+# print student markseet.
+# user can input rollno, 3subject marks, compute total marks, compute persentage.
+
+# compute grade 
+# >=90 A  grade
+# <90 to >= 70 B grade 
+# <70 to >=60 c grade 
+# 60 to >= 50 D grade
+# <50 f grade.
+# print in marksheet style.
+
+# leap year
+# letter combination 
+# Loop 10 to 1
+# multiple if else
+# prime
+# print degit
+# profitloss
+# print total digit.
+
+# program 
+# public class program{
+#     ststic int x;
+#     static int fun(){
+#         return x--;
+#     }
+#     public static void main(String [ args]){
+#         while(fun()){
+#             int y = fun();
+#             system.out println(y);
+#         }
+#     }
+# }
+
+# salary.calc
+
+# *******************************************************************************
+# Recursion------------------>
+# print num using recursion 
+# print 5,3,1,2,4 recursion  hint eve, odd
+# sum of digit
+# ip = 12345
+# op= 15
+# check if num is palindrome using recursion 
+# ip = 12345
+# op = F 
+# count 0 in digit using recursion 
+# ip = 10340101
+# op : 3
+# power calc using recursion
+#  input 3,6
+# op : whatever 3 raise to the power 6 is 
+
+# checka num is power of 2
+# i/p : 16
+# op: true
+# checka num is power of 3
+# checka num is power of 4
+
+# subsecuence of a string
+# ip: string str = "ravi";
+# o/p: "", "r", "a", "v", "i", "ra", "rv", "ri", "ai", "av", "vi", "rav", "rai", "rvi", "avi", "ravi".
+# all string permutation 
+# ip : arr = {3,5,7,12,46,77}
+# op : true
+
+# Linear search---->
+# search element in an array 
+# search element in an array from last index.
+
+
+
+# recursion type  1. single branch, multibranch
+
+# pattern program using recursion 
+# *****
+# *****
+# *****
+# *****
+# *****
+
+# *
+# **
+# ***
+# ****
+# *****
+
+
+# *****
+# ****
+# ***
+# **
+# *
+
+
+# 1
+# 23
+# 456
+# 78910
+
+
+        #     *
+        #    * *
+        #   * * *
+        #  * * * *
+        # * * * * *  
+
+
+# ***********
+#  *********
+#   *******
+#    *****
+#     ***
+#      *
+
+
+
+# abcde
+# abcd
+# abc
+# ab 
+# a 
+
+
+# 2 month before 
+
+# 1 in string print adjacentStar
+# ip: str =  "abbabaab"
+# op :  "ab*baba*ab"
+# 2 armstron NUM 
+# 3 countDigit
+# countDigit return 
+# factorial.java
+# fibseries
+ 
+# freCount freCount recursion.
+# input : text = "ram sharma"
+# output : {'r':2, 'a':3, 'm': 2,'s':1, 'h':1, }
+
+# multybranch demo 
+# print 1 to 0  using recursion. 
+# replace pi value 
+# i/p: str = "2*pi+3*pi=5*pi";
+# o/p: str = "2*3.14+3*3.14= 5*3.14"
+# stair climb 
+# last month 
+# dicecount
+# mazepath
+# diagonal mmaze path
+# towerofhoni
+# josephus problem
+
+
+# backtrakin-------------------------->
+# nqueen
+# sodokusolve
+# well formed parantheses
+# latterCombination 
+# combination sum : lc - 39
+# permutation lc- 46
+# Ratinmaze
+# wordsearch
+# countways for rate in a maje
+
+
+
+
+# 2 week ago 
+# barchart
+# crud in array.
+# max element
+# secondmax element.
+
+
+
+# last week 
+# reverseArray
+# array addition .
+# pairsum 
+# p15_sort01
+# p16DNF
+# p18LeadingElement
+# p5_isArraySorted
+
+
+# yesterday
+# arraylowestandgighestneartosearch.
+# binarysearch
+# mapDemo
+# find missing num in binary search
+# you are given a list of n-1 integers and these are in the range of 1 to n. there are no duplicates in the list. one of the interger is missingin the list. find the missing int.
+
+# input: arr[] = {1,2,4,6,3,7,8} op: 5
+# input: arr[] = {1,2,3,5}
+# output: 4;
+
+
+
+# today
+# A --- spit
+# frequency
+# GFG
+
+
+
+
+
+
+
+
+
+
+
+
+
+

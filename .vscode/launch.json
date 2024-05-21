@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ArrayLists",
+            "request": "launch",
+            "mainClass": "ArrayLists",
+            "projectName": "java_4681b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch addition",
+            "request": "launch",
+            "mainClass": "addition",
+            "projectName": "java_4681b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "java_4681b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Armstrong",
+            "request": "launch",
+            "mainClass": "javacollege.Armstrong",
+            "projectName": "java_4681b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern_1",
+            "request": "launch",
+            "mainClass": "javacollege.Pattern_1",
+            "projectName": "java_4681b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern5",
+            "request": "launch",
+            "mainClass": "javacollege.pattern5",
+            "projectName": "java_4681b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern",
+            "request": "launch",
+            "mainClass": "javacollege.pattern",
+            "projectName": "java_4681b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example",
+            "request": "launch",
+            "mainClass": "javacollege.Example",
+            "projectName": "java_4681b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch EnhancedForLoop",
+            "request": "launch",
+            "mainClass": "javacollege.EnhancedForLoop",
+            "projectName": "java_4681b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Parentheses",
+            "request": "launch",
+            "mainClass": "BackTracking.Parentheses",
+            "projectName": "java_4681b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch NQueen",
+            "request": "launch",
+            "mainClass": "BackTracking.NQueen",
+            "projectName": "java_4681b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch NQueen",
+            "request": "launch",
+            "mainClass": "javacollege.BackTracking.NQueen",
+            "projectName": "java_4681b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch NQueen",
+            "request": "launch",
+            "mainClass": "NQueen",
+            "projectName": "java_4681b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "TowerOfHanoi",
+            "projectName": "java_4681b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch yt",
+            "request": "launch",
+            "mainClass": "yt",
+            "projectName": "java_4681b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch fib",
+            "request": "launch",
+            "mainClass": "fib",
+            "projectName": "java_4681b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch multibranchM",
+            "request": "launch",
+            "mainClass": "multibranchM",
+            "projectName": "java_4681b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch a",
+            "request": "launch",
+            "mainClass": "a",
+            "projectName": "java_4681b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfAllOddNum",
+            "request": "launch",
+            "mainClass": "praticeQ.SumOfAllOddNum",
+            "projectName": "java_4681b91f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch FristClass",
+            "request": "launch",
+            "mainClass": "FristClass",
+            "projectName": "java_4681b91f"
+        }
+    ]
+}
